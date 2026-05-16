@@ -5,7 +5,9 @@ in this project we gonna make a simple encrypt file with python
 
 ### install depencies
 
+```
 pip3 install cryptography
+```
 
 ### start write a code 
 
